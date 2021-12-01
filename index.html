@@ -1,61 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-GB">
 <head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<title>My Portfolio</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Jia Yuan</title>
+	<link rel="stylesheet" href="normalize.css">
 	<link rel="stylesheet" href="style.css">
+	<script src="myscripts.js"></script>
 </head>
 
 <body>
-  <div class="banner">
-	  <div class="navbar">
-			<nav class="navigation">
-		  		<!--<img src="images/logo.png" style="float: right; margin-right: 15px;" class="logo">-->
-				<ul>
-			  		<li><a href="#home">Home</a></li>
-			  		<li><a href="#about">About</a></li>
-			  		<li><a href="#contact">Contact</a></li>
-				</ul>
-		  </nav>
-	  </div>
-	  
-	<div class = "main-content">
-	<section id="home">
-	  <div class="portfolio">
-		<ul>
-			<li><a href="#">PORT</a></li>
-			<li><a href="#">FOLIO</a></li>
-		</ul>
+	<header class ="main">
+		<nav class="navigation">
+			<div id="home"></div>
+			<div class='links'>
+			  	<a href="#" alt="Home" onmousedown="document.getElementById('home').scrollIntoView()"></div>Home<label> - </label></a>
+			  	<a href="#" alt="About me" onmousedown="document.getElementById('about-metext').scrollIntoView()"></div>About<label> - </label></a>
+			  	<a href="#" alt="Contact me" onmousedown="document.getElementById('contact-metext').scrollIntoView()"></div>Contact</a>
+			</div>
+		</nav>
+		<div class="logo">
+			<img src="images/me.png" alt="Jia Yuan" style="height: auto; width: 25%; min-height: 200px; min-width: 200px;">
 		</div>
 
-		<div class="homeJia">
-			<p>JIA</p>
+		<h1 class="name" style="margin-bottom: 0px;">Ong Jia Yuan</h1>
+
+		<div class="banner"></div>
+	</header>
+
+	<section class="about-me">
+        <div class="container">
+			<div id="about-metext">
+				<h1>About Me</h1>
+				<p>
+					Hello!
+					<br><br>
+					My name is Jia Yuan and I am a freshman from Ngee Ann Polytechnic.
+				</p>
+			</div>
 		</div>
-		
-		<div class="homeYuan">
-			<p>YUAN</p>
-		</div>
-	
-	  <div class="content">
-		<img src="images/me.png" class="me">
-		  <h1>About me</h1>
-	  </div>
-	
-	</div>
-</div>
-</section>
-</div>
+	</section>
 
 </body>
-
 </html>
-
-<section id="about">
-	<h1>about</h1>
-</section>
-
-<section id="contact">
-	<h1>contact</h1>
-</section>
-
