@@ -68,8 +68,8 @@
 
 .navigation > div > label{
     color: white;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     font-size: 20px;
 }
 
@@ -85,33 +85,7 @@
     font-weight: 600;
 }
 
-.about-me{
-    min-height: 100vh;
-    color: white;
 
-    background-color: #e73434;
-    background-image: linear-gradient(rgba(97, 25, 25, 0.75),rgba(97, 25, 25, 0.75));
-}
-
-#about-metext{
-    display: flex;
-    flex-direction: column;
-    
-    padding: 20px;
-    padding-bottom: 50px;
-
-    flex-basis: 40%;
-    border-radius: 20px;
-    background-color: transparent;
-}
-
-#about-metext>h1{
-    font-size: 4em;
-}
-
-#about-metext>p{
-    font-size: 1.05em;
-}
 
 .contact-me{
     min-height: 100vh;
@@ -133,11 +107,12 @@
     background-color: transparent;
 }
 
-#contact-metext>h1{
+#contact-metext>h1 {
+    color:white;
     font-size: 4em;
 }
 
-#contact-metext>p{
+#contact-metext>p {
     font-size: 1.05em;
 }
 
@@ -166,7 +141,7 @@ body{
 .contact-navigation{
     display: flex;
     margin-top: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     flex-direction: row;
     flex-wrap: wrap ;
     justify-content: center;
@@ -176,8 +151,8 @@ body{
 
 .contact-navigation > div > label{
     color: white;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     font-size: 20px;
     top: 100;
 }
@@ -330,4 +305,34 @@ textarea {
     background-position: center;
     object-fit: cover;
     position: fixed;
+}
+
+.about-me{
+    min-height: 100vh;
+    color: white;
+
+    background-color: #e73434;
+    background-image: linear-gradient(rgba(97, 25, 25, 0.75),rgba(97, 25, 25, 0.75));
+}
+
+#about-metext{
+    display: flex;
+    flex-direction: column;
+    
+    padding: 20px;
+    padding-bottom: 50px;
+
+    flex-basis: 20%;
+    border-radius: 20px;
+    background-color: transparent;
+}
+
+#about-metext>h1{
+    font-size: 4em;
+    color: white;
+}
+
+#about-metext>p{
+    font-size: 1.05em;
+    color: white;
 }
