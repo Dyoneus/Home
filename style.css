@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Segoe UI';
+    font-family: 'Quicksand' ,sans-serif;
 }
 
 .html {
@@ -142,6 +142,11 @@
 
 /* Contact page */
 
+body{
+    width: 100%;
+    height: 100vh;
+}
+
 .contact-container{
     position: relative;
     display: flex;
@@ -149,7 +154,7 @@
     align-items: center;
     width: 100%;
     height: 100%;
-    padding: 20%px 100px;
+    padding: 20px 100px;
 }
 
 .contact-container:after{
@@ -159,10 +164,10 @@
     top: 0;
     width: 100%;
     height: 100%;
-    background: url("images/background.gif") center;
+    background: url("images/background.gif") no-repeat center;
     background-size: cover;
     z-index: -1;
-    filter: blur(50px);
+    filter: blur(10px);
 }
 
 .contact-box{
@@ -182,7 +187,7 @@
 }
 
 .right{
-    padding: 25px 4
+    padding: 25px 40px;
 }
 
 h2{
