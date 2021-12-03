@@ -17,6 +17,15 @@ The design that I have chosen for my portfolio. In order to create an immediate 
 - Navigation Bar - Allows user to move from one content to another with ease a simplified design.
 - Mobile Compatibility Navigation Bar - Allows user using mobile to view the navigation bar as any user with computer would.
 
+# Testing
+1. Mobile/PC device on a smaller screen
+   - View the website page on both mobile and computer to check if compatibility works.
+2. Navigation menu
+   - Clicking onto the links that are on the navigation bar to see if it redirects me to the correct page.
+
+# Website's Bugs/Problems
+- Javascript tend to breaks due to unknown reason that have yet to be identified.
+
 # Credits
 **Media**
 - The background gif used in the website of the Home Page as well as Contact page was pulled from [Main Page Background](https://crayonwriting.tumblr.com/post/624673070111768576/moonlight-oikawa-t%C5%8Dru-pairing-oikawa-t%C5%8Dru-x).
