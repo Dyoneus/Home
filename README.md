@@ -12,15 +12,15 @@ The design that I have chosen for my portfolio. In order to create an immediate 
 # Features
 **Working features**
 
-- About me - Allows user to read information about myself
-- Contact Me - Allows user to enter their information and message if they would like to contact me for collaborative work or who are looking to hire.
-- Navigation Bar - Allows user to move from one content to another with ease a simplified design.
-- Mobile Compatibility Navigation Bar - Allows user using mobile to view the navigation bar as any user with computer would.
+- **About me** - Allows user to read information about myself
+- **Contact Me** - Allows user to enter their information and message if they would like to contact me for collaborative work or who are looking to hire.
+- **Navigation Bar** - Allows user to move from one content to another with ease a simplified design.
+- **Mobile Compatibility Navigation Bar** - Allows user using mobile to view the navigation bar as any user with computer would.
 
 # Testing
-1. Mobile/PC device on a smaller screen
+1. **Mobile/PC device on a smaller screen**
    - View the website page on both mobile and computer to check if compatibility works.
-2. Navigation menu
+2. **Navigation menu**
    - Clicking onto the links that are on the navigation bar to see if it redirects me to the correct page.
 
 # Website's Bugs/Problems
