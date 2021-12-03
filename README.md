@@ -8,3 +8,14 @@ The design that I have chosen for my portfolio. In order to create an immediate 
 - As a user, I would like to be able to have multi-compatibiity such as surfing the website using phone, computer or other electronic devices.
 - As a user, I would like to contact the person of this website using contact information provided in the website.
 - As a user, I would like to know the contents provided in the website with no design complesity.
+
+# Features
+**Working features**
+
+- About me - Allows user to read information about myself
+- Contact Me - Allows user to enter their information and message if they would like to contact me for collaborative work or who are looking to hire.
+- Navigation Bar - Allows user to move from one content to another with ease a simplified design.
+- Mobile Compatibility Navigation Bar - Allows user using mobile to view the navigation bar as any user with computer would.
+
+
+
