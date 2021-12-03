@@ -20,4 +20,7 @@ The design that I have chosen for my portfolio. In order to create an immediate 
 # Credits
 **Media**
 - The background gif used in the website of the Home Page as well as Contact page was pulled from [Main Page Background](https://crayonwriting.tumblr.com/post/624673070111768576/moonlight-oikawa-t%C5%8Dru-pairing-oikawa-t%C5%8Dru-x).
+  
+**Acknowledgements**
+- Website's visual design inspired from [Yan Dan Wong](https://www.yandanwong.com/).
 
